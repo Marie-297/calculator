@@ -6,6 +6,9 @@
   font-size: 70px;
   font-weight: bold;
 }
+.main-body {
+  margin-top: 50px;
+}
 
 .greyrow {
   background-color: lightgray;
